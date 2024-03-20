@@ -23,7 +23,7 @@ To initialize the database you can find in `src/main/resources/schema-all.sql` s
 
 # TODO
 
-## Create a business class that rappresent a people
+## Create a business class that represent a people
 
 ## Create an Intermediate Processor
 A common paradigm in batch processing is to ingest data, transform it, and then pipe it out somewhere else.
