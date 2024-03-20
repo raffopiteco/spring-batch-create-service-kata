@@ -1,5 +1,6 @@
-package com.example.batch.kata.create.service;
+package com.example.batch.kata.create.service.repository;
 
+import com.example.batch.kata.create.service.model.People;
 import java.util.List;
 
 public interface PeopleRepository {

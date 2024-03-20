@@ -1,5 +1,7 @@
 package com.example.batch.kata.create.service;
 
+import com.example.batch.kata.create.service.model.People;
+import com.example.batch.kata.create.service.repository.PeopleRepository;
 import java.util.List;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Assertions;
